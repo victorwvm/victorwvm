@@ -1,7 +1,14 @@
-### 👋 Hello, World!
+<h1 align="center">Hi 👋, I'm Victor Dantas</h1>
+<h3 align="center">I am an information systems student</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorwvm&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorwvm&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=victorwvm&label=Profile%20views&color=0e75b6&style=flat" alt="victorwvm" /> </p>
+
+- 🌱 I’m currently learning **Information systems at Faculdade Anhanguera de Uberlandia**
+ 
+- 💬 Ask me about **Technologies, music and games**
+  
+- 📫 Contact me at email: **victordantas1524@gmail.com**
+
 
 ##
 
@@ -19,8 +26,6 @@
   <img align="center" alt="Victor_Postgre" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Victor_MSQ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
-
-    
   
 </div>
 
@@ -44,3 +49,8 @@
 - **Shell**: Zsh
 - **Terminal**: Konsole
 
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorwvm&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorwvm&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorwvm&theme=transparent" alt="victorwvm" /></p>
