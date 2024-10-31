@@ -12,7 +12,7 @@
 
 ##
 
-🔍 Exploring These Technologies
+### 🔍 Exploring These Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor_JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -31,9 +31,9 @@
 
 ##
 
-🌍 My Social Spaces
+### 🌍 My Social Spaces
 
-<div>
+<div style="display: inline_block"><br>
   <a href="https://www.instagram.com/victor.wvm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.last.fm/user/kyeta" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/jose-victor-dantas-618810215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
