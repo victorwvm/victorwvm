@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victorwvm&label=Profile%20views&color=0e75b6&style=flat" alt="victorwvm" /> </p>
 
-- 🌱 I’m currently learning **Information systems at Faculdade Anhanguera de Uberlandia**
+- 🌱 I’m currently learning **Information systems at Faculdade Anhanguera de Uberlândia**
  
 - 💬 Ask me about **Technologies, music and games**
   
