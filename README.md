@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Dantas</h1>
-<h3 align="center">I am an information systems student</h3>
+<!-- <h3 align="center">I am an information systems student</h3> -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victorwvm&label=Profile%20views&color=0e75b6&style=flat" alt="victorwvm" /> </p>
 
