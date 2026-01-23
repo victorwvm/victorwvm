@@ -41,7 +41,9 @@ ___
 </div>
 
 ___
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorwvm&show_icons=true&theme=transparent) <img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorwvm&theme=transparent" alt="victorwvm" />
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=victorwvm&show_icons=true&theme=transparent&hide_border=false" />
+  <img width="420" src="https://streak-stats.demolab.com?user=victorwvm&theme=transparent&hide_border=false" />
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorwvm&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
