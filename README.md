@@ -5,14 +5,14 @@
 
 <h1 align="center">🧑‍💻 About Me</h1>
 <div align="center">
-  <img align="right" width="200" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
+  <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
 
   <p>
   Hello! I'm <b>Victor Dantas</b>, an Information Systems student at Faculdade Pitágoras de Uberlândia, currently in my 3rd semester.
   I have a strong interest in <b>Data Structures and Algorithms</b>, with a focus on <b>Backend Development</b>.
   I enjoy movies, books, and technology in general.
   I found my passion in <b>Go (Golang)</b> — its simplicity, performance, and concurrency model really resonate with me.
-  🎯 My goal is to become a <b>Go Backend Developer</b> and build scalable, efficient systems.
+  My goal is to become a <b>Go Backend Developer</b> and build scalable, efficient systems.
   </p>
 </div>
 
