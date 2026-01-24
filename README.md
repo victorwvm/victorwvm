@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/58cf6cd0-1be5-42d3-b456-b33a9591c089" alt="banner" width="999"/>
 </p>
 
-<h1 align="center">🧑‍💻 About Me</h1>
+<h2 align="center">🧑‍💻 About Me</h2>
 <div align="center">
   <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
 
@@ -17,23 +17,34 @@
 </div>
 
 ___
+<h3 align="center"> 🔎 Exploring these technologies </h3>
 
-### 🔍 Exploring These Technologies
-<div aling="center" style="display: inline_block"><br>
-  <img align="center" alt="Victor_Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />      
-  <img align="center" alt="Victor_Ku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="Victor_Post" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />         
-  <img align="center" alt="Victor_Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Victor_React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Victor_Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Victor_Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="60" alt="regex logo"  />
+  <img width="12" />
 </div>
+
+###
 
 ___
 
-### 🌍 My Social Spaces
+<h3 align="center"> ᯤ My social spaces </h3>
 
-<div aling="center" inline_block"><br>
+<div align="center">
   <a href="https://www.instagram.com/victor.wvm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.last.fm/user/kyeta" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/jose-victor-dantas-618810215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
