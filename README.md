@@ -32,6 +32,14 @@ ___
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="aws logo"  />
+  <img width="12" />
 </div>
 
 ###
