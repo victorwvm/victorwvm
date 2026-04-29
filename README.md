@@ -22,19 +22,19 @@ ___
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="aws logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="aws logo"  />
   <img width="12" />
