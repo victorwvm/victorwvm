@@ -20,19 +20,8 @@ ___
 <h3 align="center"> 🔎 Exploring these technologies </h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="aws logo"  />
-  <img width="12" />
-</div>
+  <img src = "https://skillicons.dev/icons?i=go,java,angular,git,mysql,postgres&theme=light" />
+
 
 ###
 
