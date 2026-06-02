@@ -24,19 +24,13 @@ ___
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="aws logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="aws logo"  />
   <img width="12" />
 </div>
 
