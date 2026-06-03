@@ -13,21 +13,15 @@
 ---
 
 <h2 align="center">🧑‍💻 About Me</h2>
-
 <div align="center">
-
 <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
-
 <p align="left">
-
-Hello! I'm **Victor Dantas**, an Information Systems student at Faculdade Pitágoras de Uberlândia, currently in my 3rd semester.<br><br>
-I have a strong interest in **Data Structures and Algorithms**, with a focus on **Backend Development**.<br>
+Hello! I'm Victor Dantas, an Information Systems student at Faculdade Pitágoras de Uberlândia, currently in my 3rd semester.<br><br>
+I have a strong interest in Data Structures and Algorithms, with a focus on Backend Development.<br>
 I enjoy movies, books, and technology in general.<br><br>
-I found my passion in **Go (Golang)** — its simplicity, performance, and concurrency model really resonate with me.<br>
-My goal is to become a **Go Backend Developer** and build scalable, efficient systems.
-
+I found my passion in Go (Golang) — its simplicity, performance, and concurrency model really resonate with me.<br>
+My goal is to become a Go Backend Developer and build scalable, efficient systems.
 </p>
-
 </div>
 
 ---
@@ -62,13 +56,8 @@ My goal is to become a **Go Backend Developer** and build scalable, efficient sy
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
-  <img width="400" src="https://raw.githubusercontent.com/victorwvm/victorwvm/main/profile-summary-card-output/github_octolanguages/0-profile-details.svg" />
-  <img width="400" src="https://raw.githubusercontent.com/victorwvm/victorwvm/main/profile-summary-card-output/github_octolanguages/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
-  <img width="400" src="https://raw.githubusercontent.com/victorwvm/victorwvm/main/profile-summary-card-output/github_octolanguages/3-stats.svg" />
-  <img width="400" src="https://raw.githubusercontent.com/victorwvm/victorwvm/main/profile-summary-card-output/github_octolanguages/4-productive-time.svg" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=victorwvm&show_icons=true&theme=transparent&hide_border=false" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=victorwvm&theme=transparent&hide_border=false" />
 </div>
 
 <br/>
