@@ -29,7 +29,8 @@ My goal is to become a Go Backend Developer and build scalable, efficient system
 <h3 align="center">🔎 Exploring these technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,angular,git,mysql,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,gradle,javascript,angular,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,mysql&theme=light" />
 </div>
 
 ---
