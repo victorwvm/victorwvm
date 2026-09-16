@@ -34,8 +34,8 @@ Currently, I'm working as a Developer Intern at <a href="https://www.aliberti.co
 <h3 align="center">🔎 Exploring these technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,javascript,angular,go&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,docker,javascript,go,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" />
 </div>
 
 ---
